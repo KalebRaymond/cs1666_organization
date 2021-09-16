@@ -13,9 +13,9 @@ https://github.com/KalebRaymond/CS1666-Tactical-RPG
 
 * Advanced Topic Subteam 2: Networking
 
-	* STUDENT2NAMEHERE
-		* Pitt ID: HERE
-		* Github Username: HERE
+	* Jake Baumbaugh
+		* Pitt ID: JTB122
+		* Github Username: JakeBaumbaugh
 
 ## Game Description
 
@@ -23,13 +23,13 @@ DESCRIPTIONHERE
 
 ## Advanced Topic Description
 
-### TOPIC1
+### AI
 
 DESCRIPTIONHERE
     
-### TOPIC2
+### Networking
 
-DESCRIPTIONHERE
+Upon selecting multiplayer from the menu, the player will be able to enter a server join code. When two players have connected to a server, they will be entered into a game on opposite sides of the map where they will try to defeat the other player.
 
 ## Midterm Goals
 
