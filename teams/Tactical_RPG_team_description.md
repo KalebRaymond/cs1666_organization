@@ -7,9 +7,9 @@ https://github.com/KalebRaymond/CS1666-Tactical-RPG
 ## Team Members
 * Advanced Topic Subteam 1: AI
 
-	* STUDENT1NAMEHERE
-		* Pitt ID: HERE
-		* Github Username: HERE
+	* Alexander Kwiatkowski
+		* Pitt ID: 4363559
+		* Github Username: AlexKwi
 
 * Advanced Topic Subteam 2: Networking
 
